@@ -1,0 +1,9 @@
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+# Local configuration and future Python outputs
+.env
+.venv/
+__pycache__/
+*.pyc
